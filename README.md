@@ -12,8 +12,8 @@ Tugas Riset Rekrutasi I-Smile Laboratory
 1) Import Library yang digunakan dalam Source Code.
 2) Load Dataset
    Terdapat 4 Dataset yang digunakan, dapat dilihat pada Folder 'Dataset'
-   (a) Dataset yang digunakan untuk 'Movie Description Based' dan 'Movie Metadata Based' adalah 'tmdb_5000_credits.csv' dan 'tmdb_5000_movies.csv'.
-   (b) Dataset yang digunakan untuk 'User Rating Based' adalah movie.csv dan rating.csv.
+   * Dataset yang digunakan untuk 'Movie Description Based' dan 'Movie Metadata Based' adalah 'tmdb_5000_credits.csv' dan 'tmdb_5000_movies.csv'.
+   * Dataset yang digunakan untuk 'User Rating Based' adalah movie.csv dan rating.csv.
    * Note : Jika ingin menggunakan Dataset baru atau ingin menambahkan Dataset, perlu dilakukan penyesuaian. (Ketentuan Dataset ada di bawah).
 3) Pada setiap Jenis Recommender terdapat bagian 'Preprocessing', harap running Cell tersebut dalam Source Code pada Sub-Bagian Jenis Recommender yang ingin digunakan.
 4) Running Cell bagian 'Recommender' dalam Source Code pada Sub-Bagian Jenis Recommender tersebut, kemudian masukkan judul Film yang ingin dibuatkan rekomendasi
