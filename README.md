@@ -7,6 +7,9 @@ Tugas Riset Rekrutasi I-Smile Laboratory
 2) Movie Metadata Based Recommender
 3) User Rating Based Recommender
 
+## Dataset
+[Click Here](https://drive.google.com/drive/folders/1oy8O_PsZMSiYQe3q3TZ89YWeFWdMQoZb?usp=drive_link)
+
 ## Cara Penggunaan:
 
 1) Import Library yang digunakan dalam Source Code.
